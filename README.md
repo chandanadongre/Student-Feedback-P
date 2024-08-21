@@ -1,8 +1,5 @@
 # Student-Feedback-P
-Simple HTML,CSS+ MySQL project
-# 👨‍🎓📝 Student Feedback Portal
-
-A student feedback portal built using PHP, SQL and CSS.
+Simple HTML,CSS+ MySQL, PHP project
 
 ## ⭐ Features
 
